@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\cirilva\source\repos\lab5\lab5\main.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\cirilva\source\repos\lab5\lab5\main.cpp(48): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\cirilva\source\repos\lab5\lab5\main.cpp(133): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\cirilva\source\repos\lab5\lab5\main.cpp(144): warning C4018: >=: несоответствие типов со знаком и без знака
+  Lab5.vcxproj -> C:\Users\cirilva\source\repos\Lab5\Debug\Lab5.exe
